@@ -1,0 +1,6 @@
+0:00:01 Navigate to power apps platform, and launch vendor app. Input details into respective fields, ‘vendor number’ accepts only numeric data type. 
+0:00:15 All fields are required before ‘Submit Email’ button is enabled. 
+
+0:00:20 Once email is received, automation workflow is triggered. Intelligent automation ensures page navigation, selection from drop-down menu and button clicks are well orchestrated.
+
+0:00:55 The process autonomously updates user provided data into esker application. Smart automation ensures data is accurately input into respective fields. 
